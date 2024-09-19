@@ -1,0 +1,1 @@
+val = as.integer(readline("enter the value:"))
